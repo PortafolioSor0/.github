@@ -87,12 +87,40 @@ primacy of reality, into JSON and CSV ready for legal research.
 
 ## Skills
 
-| | |
-|---|---|
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white) ![OpenMediaVault](https://img.shields.io/badge/-OpenMediaVault-5DACDF) ![Samba](https://img.shields.io/badge/-Samba%20%2F%20SMB3-4E9A06) |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) |
-| **Tools** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![mitmproxy](https://img.shields.io/badge/-mitmproxy-6c4f8c) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
-| **Practices** | security hardening · threat modeling · change management · AI agent security · experiment reproducibility · technical documentation |
+<table>
+<tr>
+<td><b>Infrastructure</b></td>
+<td>
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white) ![OpenMediaVault](https://img.shields.io/badge/-OpenMediaVault-5DACDF) ![Samba](https://img.shields.io/badge/-Samba%20%2F%20SMB3-4E9A06)
+
+</td>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![mitmproxy](https://img.shields.io/badge/-mitmproxy-6c4f8c) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Practices</b></td>
+<td>
+
+security hardening · threat modeling · change management · AI agent security · experiment reproducibility · technical documentation
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
